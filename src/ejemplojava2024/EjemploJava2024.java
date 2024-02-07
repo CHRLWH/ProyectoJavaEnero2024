@@ -17,7 +17,8 @@ public class EjemploJava2024 {
         
         // TODO code application logic here
         
-        System.out.println(">Epi: Hola Blas! ");
+        System.out.println(">Epi: Hola Blas!\n>Blas: Hola Epi!\n ");
+        
     }
     
 }
